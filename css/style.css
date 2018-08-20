@@ -1,0 +1,33 @@
+.header-home{
+    background-image:url("biblioteca.jpg");
+    background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.header-menu{
+    background-image:url("head.png");
+    background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+
+.footer-all{
+    background-image:url("footer.jpg");
+    background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: white;
+	padding-top: 100px;
+    padding-bottom: 100px;
+}
